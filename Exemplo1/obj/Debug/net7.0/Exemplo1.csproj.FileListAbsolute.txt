@@ -1,0 +1,15 @@
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/bin/Debug/net7.0/Exemplo1
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/bin/Debug/net7.0/Exemplo1.deps.json
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/bin/Debug/net7.0/Exemplo1.runtimeconfig.json
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/bin/Debug/net7.0/Exemplo1.dll
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/bin/Debug/net7.0/Exemplo1.pdb
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/Exemplo1.csproj.AssemblyReference.cache
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/Exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/Exemplo1.AssemblyInfoInputs.cache
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/Exemplo1.AssemblyInfo.cs
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/Exemplo1.csproj.CoreCompileInputs.cache
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/Exemplo1.dll
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/refint/Exemplo1.dll
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/Exemplo1.pdb
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/Exemplo1.genruntimeconfig.cache
+/home/20221ewbj0025/WorkSpace/dotNet/Exemplo1/obj/Debug/net7.0/ref/Exemplo1.dll
